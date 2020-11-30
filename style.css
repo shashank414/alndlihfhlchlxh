@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 0;
+ 
+}
+canvas {
+  display: block;
+}
+
+
+img {
+  width: 200px;
+  height: 200px; 
+}
+.menu{
+  display:flex;
+  justify-content:space-between;
+  background-color:#000000;
+  padding:15px;
+  font-size:20px;
+  font-family:sans-serif;
+  font-weight:400;
+  color:#0eac09;
+}
+body{
+  margin:0px;
+  background-color:#ff0808;
+}
+.grid img{
+  border: 2px solid #000000;
+  border-radius:50px;
+  background-color:rgb(10, 236, 85);
+}
+.origami{
+  border-radius:20px;
+  background-color:#000000;
+  padding:30px;
+  margin:25px;
+  width:310px;
+  font-family:fantasy;
+}
